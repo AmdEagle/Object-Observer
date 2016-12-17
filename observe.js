@@ -27,7 +27,7 @@ export default class Observe
                     {
                         let message = 
                         {
-                            event : Observe.TypeNewConst,
+                            event : Observe.TypeUpdateConst,
                             parentKey,
                             key,
                             newValue : value,
